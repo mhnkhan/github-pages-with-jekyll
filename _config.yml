@@ -1,8 +1,8 @@
 title: "Khans' blog"
 author: "Mahdi Khan"
 email: 70070156+mhnkhan@users.noreply.github.com
-description: > # this means to ignore newlines until "baseurl:"
-	"Mahdi Khans' testing blog on GH-Pages. Checkout cool new bugs & typos! :-D LOL"
+description: "Mahdi Khans' testing blog on GH-Pages. Checkout cool new bugs & typos! :-D LOL"
+	> # this means to ignore newlines until "baseurl:"
 theme: minima
 
 # social links
